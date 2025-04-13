@@ -5,6 +5,7 @@
   "private": true,
   "devDependencies": {
     "db" : "*",
+    "@repo/ui" : "*",
     "@types/bun": "latest"
   },
   "peerDependencies": {
